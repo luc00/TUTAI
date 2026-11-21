@@ -1,0 +1,6 @@
+{
+  "name": "TutAI — Video Tutorial Generati con l'AI",
+  "description": "Piattaforma AI che trasforma qualsiasi domanda pratica in una guida passo-passo e in un video tutorial generato con Gemini e Veo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
